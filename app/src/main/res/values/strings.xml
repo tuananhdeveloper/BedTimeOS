@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BedTimeIOS</string>
+    <string name="text_working_days">Ngày hoạt động</string>
+    <string name="text_monday">T2</string>
+    <string name="text_tuesday">T3</string>
+    <string name="text_wednesday">T4</string>
+    <string name="text_thursday">T5</string>
+    <string name="text_friday">T6</string>
+    <string name="text_saturday">T7</string>
+    <string name="text_sunday">CN</string>
+    <string name="text_bedtime">Giờ đi ngủ và Thức dậy</string>
+    <string name="text_bedtime_2">Giờ đi ngủ</string>
+    <string name="text_wakeup">Thức dậy</string>
+</resources>
